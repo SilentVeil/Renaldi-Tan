@@ -13,7 +13,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ## 📂 Featured Projects
-### 🔐 [AWS IAM Security Lab](https://github.com/renaldi136/aws-iam-lab)
+### 🔐 [AWS IAM Security Lab](https://github.com/silentveil/aws-iam-lab)
 - Implemented role-based access control with least privilege principles
 - Created custom IAM policies and tested permissions boundaries
 
