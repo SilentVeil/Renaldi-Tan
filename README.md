@@ -1,1 +1,39 @@
-# Renaldi-Tan
+# 👋 Hi, I'm Renaldi | Cloud Security Learner
+
+🔐 Building security-first cloud infrastructure | AWS Enthusiast | Preparing for AWS Certifications
+
+## 🛠️ Technical Skills
+**Cloud Platforms:** AWS  
+**Security Tools:** IAM, Security Groups, NACLs, CloudTrail, KMS, VPC Flow Logs  
+**Core Services:** EC2, S3, VPC, Lambda, CloudWatch  
+**Automation:** Python, AWS CLI, Basic Shell Scripting  
+**Concepts:** Least Privilege, Defense in Depth, Network Segmentation, Encryption at Rest & Transit
+
+## 📂 Featured Projects
+### 🔐 [AWS IAM Security Lab](https://github.com/renaldi136/aws-iam-lab)
+- Implemented role-based access control with least privilege principles
+- Created custom IAM policies and tested permissions boundaries
+
+### 🌐 [Secure VPC Architecture](https://github.com/renaldi136/aws-vpc-lab) *(in progress)*
+- Multi-tier network design with public/private subnets
+- Configured Security Groups, NACLs, and VPC Flow Logs
+
+### 📊 [Cloud Monitoring & Alerts](https://github.com/renaldi136/aws-monitoring-lab) *(planned)*
+- CloudWatch alarms and dashboards
+- Automated incident response setup
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentveil&show_icons=true&theme=default)
+
+## 🎯 Currently Learning
+- AWS Cloud Practitioner preparation
+- Terraform for Infrastructure as Code
+- Cloud security best practices
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
+
+---
+
+*"Security is not a product, but a process."*
