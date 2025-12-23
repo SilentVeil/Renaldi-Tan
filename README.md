@@ -17,7 +17,7 @@
 - Implemented role-based access control with least privilege principles
 - Created custom IAM policies and tested permissions boundaries
 
-### 🌐 [Secure VPC Architecture](https://github.com/renaldi136/aws-vpc-lab) *(in progress)*
+### 🌐 [Secure VPC Architecture](https://github.com/SilentVeil/aws-vpc-security-lab) 
 - Multi-tier network design with public/private subnets
 - Configured Security Groups, NACLs, and VPC Flow Logs
 
