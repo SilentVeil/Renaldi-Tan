@@ -6,7 +6,7 @@
 **Cloud Platforms:** AWS  
 **Security Tools:** IAM, Security Groups, NACLs, CloudTrail, KMS, VPC Flow Logs  
 **Core Services:** EC2, S3, VPC, Lambda, CloudWatch  
-**Automation:** Python, AWS CLI, Basic Shell Scripting  
+**Automation:** Basic Python, AWS CLI, Basic Shell Scripting  
 **Concepts:** Least Privilege, Defense in Depth, Network Segmentation, Encryption at Rest & Transit
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
