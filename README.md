@@ -14,24 +14,23 @@
 
 ## 📂 Featured Projects
 ### 🔐[AWS IAM Security Lab](https://github.com/SilentVeil/AWS-iam-security-lab)
-- Implemented role-based access control with least privilege principles
-- Created custom IAM policies and tested permissions boundaries
+Hands-on implementation of AWS IAM security with least privilege principles, custom policies, and role-based access control.
 
 ### 🌐 [Secure VPC Architecture](https://github.com/SilentVeil/aws-vpc-security-lab) 
-- Multi-tier network design with public/private subnets
-- Configured Security Groups, NACLs, and VPC Flow Logs
+Secure multi-tier AWS VPC architecture with network ACLs, security groups, VPC flow logs, and defense-in-depth design.
 
-### 📊 [Cloud Monitoring & Alerts](https://github.com/renaldi136/aws-monitoring-lab) *(planned)*
-- CloudWatch alarms and dashboards
-- Automated incident response setup
+### 📊 [Cloud Monitoring & Alerts](https://github.com/SilentVeil/AWS-security-monitoring-lab) 
+Comprehensive security monitoring system using CloudTrail, CloudWatch, and Athena for audit, compliance, and threat detection.
 
-## 📈 GitHub Stats
-![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentveil&show_icons=true&theme=dark)
+
+## 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentVeil&show_icons=true&theme=dark)
+
 
 ## 🎯 Currently Learning
-- AWS Cloud Practitioner preparation
-- Terraform for Infrastructure as Code
-- Cloud security best practices
+- Database Security (RDS encryption & IAM authentication)
+- DevSecOps Pipeline (Security in CI/CD)
+- AWS Security Hub Integration
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
