@@ -29,9 +29,6 @@ Full incident response: Detected unauthorized infrastructure modification → At
 **Automation:** Python, AWS CLI, Terraform (basic), Shell Scripting  
 **Concepts:** Least Privilege, Defense-in-Depth, Zero Trust, Compliance (SOC 2, GDPR, PCI DSS)
 
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentVeil&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentVeil&layout=compact&theme=dark)
 
 ## 🎯 Currently
 - Enhancing cloud security portfolio with hands-on projects
