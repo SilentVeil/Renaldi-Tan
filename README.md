@@ -18,6 +18,22 @@
 ### 🔍 [CloudTrail Forensics Lab](https://github.com/SilentVeil/aws-cloudtrail-forensics-lab)
 **Incident Response & Investigation** - Full forensic analysis of security breach, from detection to multi-layer remediation.
 
+### 🔐 [AWS Security Hardening Suite](https://github.com/SilentVeil/AWS-security-hardening-suite)
+**Defense-in-Depth Security Implementation** - Comprehensive collection of 4 security labs covering system hardening, data protection, network firewall, and vulnerability management across AWS infrastructure layers.
+
+### 🔗 Individual Labs:
+- **System Hardening:** [EC2 Patch Management](https://github.com/SilentVeil/aws-ec2-patch-management-system)
+- **Data Protection:** [KMS Encryption](https://github.com/SilentVeil/aws-data-protection-encryption-system)  
+- **Network Security:** [Firewall Malware Blocking](https://github.com/SilentVeil/aws-network-firewall-malware-blocking)
+- **Vulnerability Mgmt:** [Inspector & Lambda](https://github.com/SilentVeil/aws-vulnerability-management-lab)
+
+### 🎯 Security Domains Covered:
+- Identity & Access Management
+- Network Segmentation & Firewall
+- OS Hardening & Compliance
+- Data Encryption at Rest
+- Threat Detection & Response
+
 ## 🛠️ Technical Skills
 **Cloud Platforms:** AWS  
 **Security Tools:** IAM, VPC, CloudTrail, CloudWatch, AWS Config, Security Hub  
